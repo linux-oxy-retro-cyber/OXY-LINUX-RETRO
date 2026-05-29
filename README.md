@@ -1,2 +1,16 @@
 # OXY-LINUX-RETRO
 REPOSITORI OFICIAL DO OXY LINUX RETRO COM SKIN HACKER
+🟢 OXY$ OS: The Ultra-Lightweight Pure Unix Experience 🟢
+
+Esqueça distros pesadas, interfaces cheias de frescura e rastro de sistemas comerciais. O OXY$ OS nasceu do zero absoluto (LFS) focado em desempenho bruto, minimalismo radical e na estética dos terminais Unix clássicos de fósforo verde.
+
+Aqui não tem peso morto. É você, o prompt e o controle total do hardware.
+
+🔥 DESTAQUES DO PROJETO:
+• Kernel 6.18 Linux (Compilado nativamente do código-fonte puro).
+• Skin Hacker Retrô (Visual clássico Unix Amber/Green Terminal).
+• Ultra Leve (Carrega 100% direto na memória RAM em menos de 2 segundos).
+• Zero GCC Local (Sem compiladores pesados no rootfs para manter o sistema limpo e ágil).
+• Gerenciador 'KISS' embutido (Gerenciamento de pacotes ultra-independente via POSIX sh).
+
+Se você curte a filosofia purista onde cada linha de código importa, venha dar uma olhada no esqueleto do sistema.
