@@ -14,7 +14,7 @@ Built with assistance from AI tools during development, while maintaining full p
 
 ## 🚀 Features
 
-* ✅ Linux Kernel 6.18
+* ✅ Linux Kernel 6.12
 * ✅ Built from source (LFS-based approach)
 * ✅ Retro Hacker Theme
 * ✅ Classic Green Terminal Interface
