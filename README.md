@@ -1,30 +1,128 @@
-# OXY-LINUX-RETRO
-REPOSITORI OFICIAL DO OXY LINUX RETRO COM SKIN HACKER
-🟢 OXY$ OS: The Ultra-Lightweight Pure Unix Experience 🟢
+# 🟢 OXY-LINUX-RETRO
 
-Esqueça distros pesadas, interfaces cheias de frescura e rastro de sistemas comerciais. O OXY$ OS nasceu do zero absoluto (LFS) focado em desempenho bruto, minimalismo radical e na estética dos terminais Unix clássicos de fósforo verde.
+> A lightweight Linux distribution built from scratch, focused on speed, simplicity, and the classic hacker terminal aesthetic.
 
-Aqui não tem peso morto. É você, o prompt e o controle total do hardware.
+## 📖 About
 
-🔥 DESTAQUES DO PROJETO:
-• Kernel 6.18 Linux (Compilado nativamente do código-fonte puro).
-• Skin Hacker Retrô (Visual clássico Unix Amber/Green Terminal).
-• Ultra Leve (Carrega 100% direto na memória RAM em menos de 2 segundos).
-• Zero GCC Local (Sem compiladores pesados no rootfs para manter o sistema limpo e ágil).
-• Gerenciador 'KISS' embutido (Gerenciamento de pacotes ultra-independente via POSIX sh).
+**OXY-LINUX-RETRO** is an independent open-source Linux project developed from the ground up, inspired by the philosophy of classic Unix systems.
 
-Se você curte a filosofia purista onde cada linha de código importa, venha dar uma olhada no esqueleto do sistema.
+The goal is simple: provide a lightweight, fast, and minimalist environment where the terminal is the center of the experience. No unnecessary services, no bloated desktop environments, and no excessive resource consumption.
+
+Built with assistance from AI tools during development, while maintaining full project control and customization.
+
+---
+
+## 🚀 Features
+
+* ✅ Linux Kernel 6.18
+* ✅ Built from source (LFS-based approach)
+* ✅ Retro Hacker Theme
+* ✅ Classic Green Terminal Interface
+* ✅ Extremely Lightweight System
+* ✅ Fast Boot Performance
+* ✅ Memory-Efficient Environment
+* ✅ POSIX Shell-Based Package Management
+* ✅ Minimal Dependencies
+* ✅ Open Source
+* ✅ Community Contributions Welcome
+
+---
+
+## 🖥️ Screenshots
+
+### Main Desktop / Terminal
+
 ![OXY$ OS Screen](Captura%20de%20tela%20de%202026-05-29%2014-32-49.png)
 
-esse e um projeto independente feito por min mesmo com a ajuda do gemini para acelerar o projeto 
-esse sistema e de codigo aberto entao podem atualizar e repostar sem problemas 
-ainda apresenta bugs. 
-pretendo atualizalo para o kernel 7.0 ou 7.1...
+---
 
-nova atualaizaçao 1.9
-recursos novos git e fastfetch
+## 📦 Version 1.9 Update
 
-screenshot do comando fastfetch
-![OXY$ OS Screen](fastfetch.png)
-screenshote do comando git --version
-![OXY$ OS Screen](git.png)
+### New Features
+
+* Added **Git**
+* Added **Fastfetch**
+* General system improvements
+* Package updates
+* Bug fixes
+
+### Fastfetch
+
+![Fastfetch](fastfetch.png)
+
+### Git Version
+
+![Git](git.png)
+
+---
+
+## 🛠️ System Philosophy
+
+OXY-LINUX-RETRO follows a simple philosophy:
+
+> "Your computer should work for you, not the other way around."
+
+The project prioritizes:
+
+* Performance
+* Simplicity
+* Transparency
+* User Control
+* Low Resource Usage
+
+---
+
+## ⚠️ Current Status
+
+This project is currently under active development.
+
+Known limitations:
+
+* Some bugs may still be present.
+* Certain features are experimental.
+* Documentation is being expanded.
+
+Bug reports and pull requests are welcome.
+
+---
+
+## 🔮 Future Plans
+
+Planned features include:
+
+* Linux Kernel 7.x migration
+* Improved package management
+* Better hardware compatibility
+* Additional terminal utilities
+* Enhanced customization options
+* Performance optimizations
+
+---
+
+## 🤝 Contributing
+
+Because this project is fully open source, everyone is free to:
+
+* Fork the project
+* Modify the source code
+* Create custom versions
+* Submit improvements
+* Share and redistribute
+
+Contributions are greatly appreciated.
+
+---
+
+## 📜 License
+
+This project is distributed as open-source software.
+
+Please check the repository license file for details.
+
+---
+
+## 👨‍💻 Developer
+
+Created and maintained by the OXY-LINUX-RETRO Project.
+
+Independent project developed for Linux enthusiasts, terminal power users, and those who appreciate the classic Unix experience.
