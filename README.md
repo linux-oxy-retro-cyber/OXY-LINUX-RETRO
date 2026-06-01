@@ -126,3 +126,7 @@ Please check the repository license file for details.
 Created and maintained by the OXY-LINUX-RETRO Project.
 
 Independent project developed for Linux enthusiasts, terminal power users, and those who appreciate the classic Unix experience.
+
+---
+
+#EM BREVE
