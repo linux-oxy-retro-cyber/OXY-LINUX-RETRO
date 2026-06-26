@@ -128,5 +128,13 @@ Created and maintained by the OXY-LINUX-RETRO Project.
 Independent project developed for Linux enthusiasts, terminal power users, and those who appreciate the classic Unix experience.
 
 ---
+## install hd 
 
-#EM BREVE
+To install the system on a hard drive, you must first copy the base system files. You can either copy them directly from the installation USB drive or clone the Base System repository from GitHub using Git.
+
+After obtaining the base system, extract the initramfs and configure the GRUB bootloader for a hard drive installation by editing the grub.cfg file. Next, modify the system's init configuration so it boots correctly from the hard drive instead of the live environment.
+
+Use the Nano text editor to edit all required configuration files. Ensure that every path, mount point, boot parameter, and filesystem reference is updated for a permanent HDD/SSD installation.
+
+---
+## EM BREVE
