@@ -14,15 +14,14 @@ Built with assistance from AI tools during development, while maintaining full p
 
 ## 🚀 Features
 
-* ✅ Linux Kernel 6.12
+* ✅ Linux Kernel 7.0
 * ✅ Built from source (LFS-based approach)
 * ✅ Retro Hacker Theme
 * ✅ Classic Green Terminal Interface
 * ✅ Extremely Lightweight System
 * ✅ Fast Boot Performance
-* ✅ Memory-Efficient Environment
 * ✅ POSIX Shell-Based Package Management
-* ✅ Minimal Dependencies
+* ✅ Minimal Os inspired by gentoo
 * ✅ Open Source
 * ✅ Community Contributions Welcome
 
