@@ -128,6 +128,35 @@ Created and maintained by the OXY-LINUX-RETRO Project.
 Independent project developed for Linux enthusiasts, terminal power users, and those who appreciate the classic Unix experience.
 
 ---
+## NEW VERSION
+OXY Linux Retro 2.0 Release Notes
+
+Version 2.0 introduces a major upgrade to the development environment and the base operating system.
+
+What's New
+GCC compiler
+G++ (C++ compiler)
+Make
+CMake
+Linux Kernel 7.0
+Nano text editor
+BusyBox
+New core system libraries
+General improvements to the base system
+Known Issues
+
+This release is still under development and may contain some known issues:
+
+Fastfetch may display graphical or formatting glitches when running in a TTY console.
+Some libraries may still have missing or incomplete linking, which can cause certain applications to fail.
+Additional library compatibility improvements are planned for future releases.
+Bug Reports
+
+The reported bugs are relatively straightforward to fix and are already known by the development team. Future updates will focus on improving stability, compatibility, and overall system reliability.
+
+Despite these known issues, OXY Linux Retro 2.0 remains stable for its intended purpose and continues to operate reliably for most users.
+
+---
 ## install hd 
 
 To install the system on a hard drive, you must first copy the base system files. You can either copy them directly from the installation USB drive or clone the Base System repository from GitHub using Git.
