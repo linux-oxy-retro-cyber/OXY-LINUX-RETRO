@@ -156,13 +156,7 @@ The reported bugs are relatively straightforward to fix and are already known by
 Despite these known issues, OXY Linux Retro 2.0 remains stable for its intended purpose and continues to operate reliably for most users.
 
 ---
-## install hd 
+## oficial wiki 
 
-To install the system on a hard drive, you must first copy the base system files. You can either copy them directly from the installation USB drive or clone the Base System repository from GitHub using Git.
+[wiki](https://github.com/linux-oxy-retro-cyber/Oxy-os-wiki)
 
-After obtaining the base system, extract the initramfs and configure the GRUB bootloader for a hard drive installation by editing the grub.cfg file. Next, modify the system's init configuration so it boots correctly from the hard drive instead of the live environment.
-
-Use the Nano text editor to edit all required configuration files. Ensure that every path, mount point, boot parameter, and filesystem reference is updated for a permanent HDD/SSD installation.
-
----
-## EM BREVE
