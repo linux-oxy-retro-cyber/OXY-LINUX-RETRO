@@ -1,5 +1,5 @@
 # 🟢 OXY-LINUX-RETRO
-
+OBS: descontinuado agora o foco pasou a ser o do oxy os debian edition
 > A lightweight Linux distribution built from scratch, focused on speed, simplicity, and the classic hacker terminal aesthetic.
 
 ## 📖 About
